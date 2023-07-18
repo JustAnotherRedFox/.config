@@ -89,4 +89,4 @@ URxvt.urgentOnBell: true
 
 !Tranparency
 URxvt*depth: 32
-URxvt.background: [45]#020416
+URxvt.background: [50]#020416

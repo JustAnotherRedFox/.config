@@ -213,6 +213,6 @@ workspace 2 gaps top -4
 assign [class="qutebrowser"] 2
 assign [class="Code"] 3
 
-exec --no-startup-id code
+#exec --no-startup-id code
 #exec --no-startup-id palemoon
 #exec --no-startup-id qutebrowser
