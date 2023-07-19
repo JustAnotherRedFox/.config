@@ -215,4 +215,6 @@ assign [class="Code"] 3
 
 #exec --no-startup-id code
 #exec --no-startup-id palemoon
-#exec --no-startup-id qutebrowser
+exec ~/.config/scripts/init_Terminal.sh 1
+exec --no-startup-id nvim 3
+exec --no-startup-id qutebrowser
