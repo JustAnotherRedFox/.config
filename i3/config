@@ -211,10 +211,9 @@ workspace 2 gaps top -4
 
 # auto execute programs
 assign [class="qutebrowser"] 2
-assign [class="Code"] 3
-
+# assign [class="Code"] 3
 #exec --no-startup-id code
 #exec --no-startup-id palemoon
-exec ~/.config/scripts/init_Terminal.sh 1
-exec --no-startup-id nvim 3
 exec --no-startup-id qutebrowser
+exec --no-startup-id URxvt
+# exec --no-startup-id ~/.config/scripts/autoStart.sh

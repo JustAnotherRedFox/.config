@@ -1,65 +1,42 @@
 !! Colorscheme
 
 ! special
-!*.foreground: #C5C8C6
-!*.background: #211D1D
 *background: #222436
 *foreground: #c8d3f5
 *.cursorColor: #DAA520
 
 ! black
-!*.color0: #1D1F21
-!*.color8: #666666
 *color0: #1b1d2b
 *color8: #444a73
 
 ! red
-!*.color1: #CC6666
-!*.color9: #FF3334
 *color1: #ff757f
 *color9: #ff757f
 
 ! green
-!*.color2: #B5BD68
-!*.color10: #9EC400
 *color2: #c3e88d
 *color10: #c3e88d
 
-! yellow
-!*.color3: #E6C547
-!*.color11: #F0C674
 *color3: #ffc777
 *color11: #ffc777
 
 ! blue
-!*.color4: #81A2BE
-!*.color12: #81A2BE
 *color4: #82aaff
 *color12: #82aaff
 
 ! magenta
-!*.color5: #B294BB
-!*.color13: #B77EE0
 *color5: #c099ff
 *color13: #c099ff
 
 ! cyan
-!*.color6: #70C0BA
-!*.color14: #54CED6
 *color6: #86e1fc
 *color14: #86e1fc
 
 ! white
-!*.color7: #373B41
-!*.color15: #282A2E
 *color7: #828bb8
 *color15: #c8d3f5
 
 !! URxvt Appearance
-!URxvt.font: xft:FiraCode Retina:pixelsize=10
-!URxvt.boldFont: xft:Fira Code:pixelsize=10:Bold
-!URxvt.italicFont: xft:Fira Code:pixelsize=9:Italic
-!URxvt.boldItalicfont: xft:Fira Code:pixelsize=9:BoldItalic
 URxvt.font: xft: BlexMono Nerd Font Mono:style=Regular:antialias=true:size=8:minspace=False
 URxvt.boldFont: xft: BlexMono Nerd Font Propo:style=Bold:antialias=true:size=9:minspace=False
 URxvt.italicFont: xft: BlexMono Nerd Font Mono:style=Italic:antialias=true:size=8:minspace=False
@@ -82,10 +59,7 @@ URxvt.saveline: 2048
 URxvt.scrollBar: false
 URxvt.scrollBar_right: false
 URxvt.urgentOnBell: true
-!URxvt.depth: 32
 !URxvt.iso14755: false
-!URxvt*.transparent: true
-!URxvt*.shading: 35
 
 !Tranparency
 URxvt*depth: 32
