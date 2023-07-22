@@ -215,5 +215,3 @@ assign [class="qutebrowser"] 2
 #exec --no-startup-id code
 #exec --no-startup-id palemoon
 exec --no-startup-id qutebrowser
-exec --no-startup-id URxvt
-# exec --no-startup-id ~/.config/scripts/autoStart.sh

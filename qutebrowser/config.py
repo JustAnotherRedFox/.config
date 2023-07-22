@@ -12,3 +12,4 @@
 
 # Change the argument to True to still load settings configured via autoconfig.yml
 config.load_autoconfig(False)
+config.source('qutebrowser-themes/themes/onedark.py')
