@@ -1303,28 +1303,148 @@
   <resource identifier="${gimp_data_dir}/palettes/Web.gpl" checksum="f02e8dfa23d01d6acfbab7f895c2dd16">
   </resource>
 
-  <resource identifier="04b_19" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font" checksum="(null)">
   </resource>
 
-  <resource identifier="Andarilho Font" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Anonymous Pro for Powerline" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Arial" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Assistant" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Avenir LT Pro" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Bailey" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Medium" checksum="(null)">
   </resource>
 
-  <resource identifier="Bloody" checksum="(null)">
+  <resource identifier="BlexMono Nerd Font Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Mono weight=450 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Medium Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Propo weight=450 Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Semi-Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Thin" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Thin Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Ultra-Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font Ultra-Light Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="BlexMono Nerd Font weight=450 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="C059" checksum="(null)">
@@ -1357,136 +1477,7 @@
   <resource identifier="Cantarell Ultra-Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Code Bold, Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Code Light, Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="CodeNewRoman Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="CodeNewRoman Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Comfortaa" checksum="(null)">
-  </resource>
-
-  <resource identifier="Comfortaa Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Comfortaa Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Comic Gibi" checksum="(null)">
-  </resource>
-
-  <resource identifier="Consolas" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cousine Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="Cousine Nerd Font Mono" checksum="(null)">
-  </resource>
-
   <resource identifier="D050000L" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Math TeX Gyre" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Bold Oblique Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Mono Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Mono Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Oblique Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Sans Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Bold Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Bold Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Italic Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Dinomik Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Dosis" checksum="(null)">
-  </resource>
-
-  <resource identifier="Dosis Semi-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Droid Sans" checksum="(null)">
-  </resource>
-
-  <resource identifier="EmojiOne" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fantasque Sans Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Fantasque Sans Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="FantasqueSansMono Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="FantasqueSansMono-Regular.ttf+Powerline+Awesome" checksum="(null)">
-  </resource>
-
-  <resource identifier="feather" checksum="(null)">
   </resource>
 
   <resource identifier="Fira Code" checksum="(null)">
@@ -1501,28 +1492,64 @@
   <resource identifier="Fira Code Medium" checksum="(null)">
   </resource>
 
+  <resource identifier="FiraCode Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Mono weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo Light" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo Medium" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Propo weight=450" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font Semi-Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="FiraCode Nerd Font weight=450" checksum="(null)">
+  </resource>
+
   <resource identifier="Fira Code Semi-Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Fira Code weight=450" checksum="(null)">
-  </resource>
-
-  <resource identifier="FontAwesome" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 5 Brands" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 5 Duotone Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 5 Pro" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 5 Pro Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Font Awesome 5 Pro Light" checksum="(null)">
   </resource>
 
   <resource identifier="Font Awesome 6 Brands" checksum="(null)">
@@ -1534,13 +1561,7 @@
   <resource identifier="Font Awesome 6 Free Heavy" checksum="(null)">
   </resource>
 
-  <resource identifier="font-awesome-extension" checksum="(null)">
-  </resource>
-
   <resource identifier="Font Awesome v4 Compatibility" checksum="(null)">
-  </resource>
-
-  <resource identifier="font-logos" checksum="(null)">
   </resource>
 
   <resource identifier="FreeMono" checksum="(null)">
@@ -1579,334 +1600,40 @@
   <resource identifier="FreeSerif Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Grixel Acme 9 Regular," checksum="(null)">
-  </resource>
-
-  <resource identifier="Grixel Acme 9 Regular Bold," checksum="(null)">
-  </resource>
-
-  <resource identifier="Grixel Acme 9 Regular Bold Xtnd" checksum="(null)">
-  </resource>
-
-  <resource identifier="Grixel Acme 9 Regular Xtnd" checksum="(null)">
-  </resource>
-
-  <resource identifier="Hack" checksum="(null)">
-  </resource>
-
-  <resource identifier="Hack Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Hack Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Hack Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Hack Nerd Font" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Bold Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="Hack Nerd Font Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Hack Nerd Font Mono" checksum="(null)">
   </resource>
 
-  <resource identifier="High Billion Sans" checksum="(null)">
+  <resource identifier="Hack Nerd Font Mono Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Hurmit Nerd Font Mono Medium" checksum="(null)">
+  <resource identifier="Hack Nerd Font Mono Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="icomoon" checksum="(null)">
+  <resource identifier="Hack Nerd Font Mono Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="icomoon_fa" checksum="(null)">
+  <resource identifier="Hack Nerd Font Propo" checksum="(null)">
   </resource>
 
-  <resource identifier="icomoon-feather" checksum="(null)">
+  <resource identifier="Hack Nerd Font Propo Bold" checksum="(null)">
   </resource>
 
-  <resource identifier="Icons South St" checksum="(null)">
+  <resource identifier="Hack Nerd Font Propo Bold Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Impact Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Inconsolata" checksum="(null)">
-  </resource>
-
-  <resource identifier="Inconsolata Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Inconsolata for Powerline" checksum="(null)">
-  </resource>
-
-  <resource identifier="Inconsolata for Powerline Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Inconsolata Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Orw" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Orw Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Orw Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Iosevka Orw Medium Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="ITC Kabel Std Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoExtraBold Nerd Font Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMonoMedium Nerd Font Mono Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Mono Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrainsMono Nerd Font Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Thin Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono NL Ultra-Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Thin Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Ultra-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Ultra-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Ultra-Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="JetBrains Mono Ultra-Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Jua" checksum="(null)">
-  </resource>
-
-  <resource identifier="Lane - Narrow" checksum="(null)">
-  </resource>
-
-  <resource identifier="Lekton Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="Lekton Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Linearicons-Free" checksum="(null)">
-  </resource>
-
-  <resource identifier="Lucida Console Semi-Condensed" checksum="(null)">
-  </resource>
-
-  <resource identifier="Luxi Sans" checksum="(null)">
-  </resource>
-
-  <resource identifier="Luxi Sans Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Luxi Sans Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Luxi Sans Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Mada" checksum="(null)">
-  </resource>
-
-  <resource identifier="Material Design Icons" checksum="(null)">
-  </resource>
-
-  <resource identifier="Material Icons" checksum="(null)">
-  </resource>
-
-  <resource identifier="Menlo" checksum="(null)">
-  </resource>
-
-  <resource identifier="Milliard" checksum="(null)">
-  </resource>
-
-  <resource identifier="Milliard Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Milliard Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Milliard Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Minecrafter" checksum="(null)">
-  </resource>
-
-  <resource identifier="Minecraft Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsyn" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsyn Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsyn.Icons" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsyn.Icons Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsynu" checksum="(null)">
-  </resource>
-
-  <resource identifier="Misc Termsynu Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Monaco" checksum="(null)">
-  </resource>
-
-  <resource identifier="MonacoB" checksum="(null)">
-  </resource>
-
-  <resource identifier="Monaco for Powerline" checksum="(null)">
+  <resource identifier="Hack Nerd Font Propo Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Monospace" checksum="(null)">
@@ -1919,15 +1646,6 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="MonospaceTypewriter Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Mynor-Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Nasa" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -1978,15 +1696,6 @@
   <resource identifier="Nimbus Sans Narrow Semi-Condensed" checksum="(null)">
   </resource>
 
-  <resource identifier="Noto Color Emoji" checksum="(null)">
-  </resource>
-
-  <resource identifier="NotoEmoji Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="NotoEmoji Nerd Font Mono" checksum="(null)">
-  </resource>
-
   <resource identifier="Noto Fangsong KSS Rotated" checksum="(null)">
   </resource>
 
@@ -2009,9 +1718,6 @@
   </resource>
 
   <resource identifier="Noto Looped Thai Thin" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Mono" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Music" checksum="(null)">
@@ -2264,9 +1970,6 @@
   </resource>
 
   <resource identifier="Noto Sans Chorasmian" checksum="(null)">
-  </resource>
-
-  <resource identifier="Noto Sans Condensed" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Coptic" checksum="(null)">
@@ -2560,6 +2263,12 @@
   <resource identifier="Noto Sans Kannada UI Thin" checksum="(null)">
   </resource>
 
+  <resource identifier="Noto Sans Kawi" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans Kawi Bold" checksum="(null)">
+  </resource>
+
   <resource identifier="Noto Sans Kayah Li" checksum="(null)">
   </resource>
 
@@ -2837,6 +2546,12 @@
   </resource>
 
   <resource identifier="Noto Sans NKo" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans NKo Unjoined" checksum="(null)">
+  </resource>
+
+  <resource identifier="Noto Sans NKo Unjoined Bold" checksum="(null)">
   </resource>
 
   <resource identifier="Noto Sans Nushu" checksum="(null)">
@@ -3796,21 +3511,6 @@
   <resource identifier="Noto Traditional Nushu Light" checksum="(null)">
   </resource>
 
-  <resource identifier="Nunito" checksum="(null)">
-  </resource>
-
-  <resource identifier="Nunito Semi-Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="octicons" checksum="(null)">
-  </resource>
-
-  <resource identifier="Olivia" checksum="(null)">
-  </resource>
-
-  <resource identifier="orw_fi" checksum="(null)">
-  </resource>
-
   <resource identifier="P052" checksum="(null)">
   </resource>
 
@@ -3821,93 +3521,6 @@
   </resource>
 
   <resource identifier="P052 Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="ProFontIIx Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="ProFontIIx Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="ProFontWindows" checksum="(null)">
-  </resource>
-
-  <resource identifier="Robot Crush" checksum="(null)">
-  </resource>
-
-  <resource identifier="Robot Crush Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed," checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed, Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed, Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed, Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed, Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Condensed, Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Heavy Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Light" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Light Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono for Powerline" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="RobotoMono Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="RobotoMono Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="RobotoMono Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto weight=250" checksum="(null)">
-  </resource>
-
-  <resource identifier="Roboto weight=250 Italic" checksum="(null)">
   </resource>
 
   <resource identifier="Sans-serif" checksum="(null)">
@@ -3922,18 +3535,6 @@
   <resource identifier="Sans-serif Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="SauceCodePro Nerd Font Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="scientifica" checksum="(null)">
-  </resource>
-
-  <resource identifier="scientifica Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="scientifica Medium Italic" checksum="(null)">
-  </resource>
-
   <resource identifier="Serif" checksum="(null)">
   </resource>
 
@@ -3944,18 +3545,6 @@
   </resource>
 
   <resource identifier="Serif Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="SF Mono" checksum="(null)">
-  </resource>
-
-  <resource identifier="SF Mono Heavy" checksum="(null)">
-  </resource>
-
-  <resource identifier="SF Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Signature of the Ancient" checksum="(null)">
   </resource>
 
   <resource identifier="Source Code Pro" checksum="(null)">
@@ -4048,61 +3637,7 @@
   <resource identifier="SourceCodeVF Ultra-Light Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="Space Mono" checksum="(null)">
-  </resource>
-
   <resource identifier="Standard Symbols PS" checksum="(null)">
-  </resource>
-
-  <resource identifier="Star Jedi" checksum="(null)">
-  </resource>
-
-  <resource identifier="Star Jedi Hollow" checksum="(null)">
-  </resource>
-
-  <resource identifier="Symbols" checksum="(null)">
-  </resource>
-
-  <resource identifier="Symbols" checksum="(null)">
-  </resource>
-
-  <resource identifier="Symbols Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="Symbols Nerd Font" checksum="(null)">
-  </resource>
-
-  <resource identifier="Technology" checksum="(null)">
-  </resource>
-
-  <resource identifier="Technology Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Technology Bold Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Technology Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="Teen" checksum="(null)">
-  </resource>
-
-  <resource identifier="TerminessTTF Nerd Font Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="TerminessTTF Nerd Font Mono Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Terminus (TTF) Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="Terminus (TTF) Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Tuffy Medium Italic" checksum="(null)">
-  </resource>
-
-  <resource identifier="TypoGraphica" checksum="(null)">
   </resource>
 
   <resource identifier="Ubuntu" checksum="(null)">
@@ -4138,12 +3673,6 @@
   <resource identifier="Ubuntu Mono Italic" checksum="(null)">
   </resource>
 
-  <resource identifier="UbuntuMono Nerd Font Bold" checksum="(null)">
-  </resource>
-
-  <resource identifier="UbuntuMono Nerd Font Mono Bold" checksum="(null)">
-  </resource>
-
   <resource identifier="Ubuntu Semi-Bold" checksum="(null)">
   </resource>
 
@@ -4172,21 +3701,6 @@
   </resource>
 
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
-  </resource>
-
-  <resource identifier="Vegan Style Personal Use" checksum="(null)">
-  </resource>
-
-  <resource identifier="waffle" checksum="(null)">
-  </resource>
-
-  <resource identifier="Weather Icons" checksum="(null)">
-  </resource>
-
-  <resource identifier="Whitney Book, Medium" checksum="(null)">
-  </resource>
-
-  <resource identifier="Wuncon Siji" checksum="(null)">
   </resource>
 
   <resource identifier="Z003 Medium Italic" checksum="(null)">

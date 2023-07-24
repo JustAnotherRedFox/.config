@@ -3,9 +3,9 @@
 -- Add any additional options here
 
 vim.opt.expandtab = false --use space when tab
-vim.opt.tabstop = 4 --number of spaces tab uses
+vim.opt.tabstop = 2 --number of spaces tab uses
 vim.opt.shiftround = true --round indent
-vim.opt.shiftwidth = 4 --size of indent
-vim.opt.autoindent = true
-vim.opt.swapfile = false --deactiva swapfile
-vim.opt.scrolloff = 20
+vim.opt.shiftwidth = 2 --size of indent
+vim.opt.autoindent = false
+vim.opt.swapfile = false --deactivate swapfile
+vim.opt.scrolloff = 24
