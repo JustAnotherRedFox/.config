@@ -9,3 +9,5 @@ vim.opt.shiftwidth = 2 --size of indent
 vim.opt.autoindent = false
 vim.opt.swapfile = false --deactivate swapfile
 vim.opt.scrolloff = 24
+vim.opt.tw = 0 --text width: which line text will wrap
+vim.opt.wrap = false -- text wrap
